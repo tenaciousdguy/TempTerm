@@ -1,4 +1,6 @@
-TempTerm means Temporary Terminal. It's a very simple terminal styled chat room app. You create a room with a randomized room code, and as soon as both people (or just yourself) leave the room, all messages in there get deleted!
-It can also be completely anonymous 👀 No sign-up required.
+TempTerm is a simple terminal styled chat room app based on... My imagination.
 
-contact me at: tenaciousdguy_ on discord
+You create a room with a randomized room code and as soon as both people (or just yourself if you have no friends) leave the room? All messages in there get deleted!
+This doesn't mean use my platform to be predators with no consequences.
+
+contact me at: tenaciousdguy_ on discord OR contacttempterm@gmail.com
